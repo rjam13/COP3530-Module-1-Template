@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Algorithm 1 Test 1",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=Question1Test#test_algorithm1_1 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Algorithm 1 Test 2",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=Question1Test#test_algorithm1_2 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Algorithm 2 Test 1",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=Question1Test#test_algorithm2_1 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Algorithm 2 Test 2",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=Question1Test#test_algorithm2_2 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Algorithm 3 Test 1",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=Question1Test#test_algorithm3_1 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Algorithm 3 Test 2",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=Question1Test#test_algorithm3_2 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    }
+  ]
+}
