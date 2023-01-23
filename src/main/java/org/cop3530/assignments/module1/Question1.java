@@ -3,7 +3,6 @@ package org.cop3530.assignments.module1;
 public class Question1 {
 
     public static void main(String[] args) {
-        /*Test here*/
     }
 
     /*ALGORITHM 1
